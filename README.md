@@ -26,5 +26,5 @@ Develop an Android application that retrieves person data in JSON format from an
 
 |                                   Light Theme                                    |                                   Dark Theme                                   |
 |:--------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| <img src="screenshots/light_theme.jpg" alt="Light Theme Screenshot" width="250"> | <img src="screenshots/dark_theme.jpg" alt="Dark Theme Screenshot" width="250"> |
+| <img src="light_theme.jpg" alt="Light Theme Screenshot" width="250"> | <img src="dark_theme.jpg" alt="Dark Theme Screenshot" width="250"> |
 
